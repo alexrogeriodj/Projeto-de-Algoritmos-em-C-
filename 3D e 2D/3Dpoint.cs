@@ -1,0 +1,25 @@
+3Dpoint.cs
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+ 
+namespace Graphics3Dto2D
+{
+    class _3Dpoint
+    {
+        public double x, y, z;
+        public _3Dpoint(double xx, double yy, double zz)
+        {
+            x = xx;
+            y = yy;
+            z = zz;
+        }
+        public _3Dpoint()
+        {
+            x = 0;
+            y = 0;
+            z = 0;
+        }
+    }
+}
