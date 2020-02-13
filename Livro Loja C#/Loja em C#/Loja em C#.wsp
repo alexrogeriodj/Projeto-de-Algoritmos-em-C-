@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UIWindows", "..\..\..\source\repos\UIWindows\UIWindows\UIWindows.vbproj", "{0F1221A4-0FE2-4726-A4E1-5CBE62CB0F89}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Loja", "..\..\..\source\repos\Loja\Loja\Loja.vbproj", "{DE67BD86-3220-4B63-88CE-3C6263350C97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F1221A4-0FE2-4726-A4E1-5CBE62CB0F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1221A4-0FE2-4726-A4E1-5CBE62CB0F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1221A4-0FE2-4726-A4E1-5CBE62CB0F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1221A4-0FE2-4726-A4E1-5CBE62CB0F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE67BD86-3220-4B63-88CE-3C6263350C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE67BD86-3220-4B63-88CE-3C6263350C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE67BD86-3220-4B63-88CE-3C6263350C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE67BD86-3220-4B63-88CE-3C6263350C97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9741DFB0-BEC0-46C7-B1EA-655DCBFDE3DC}
+	EndGlobalSection
+EndGlobal
